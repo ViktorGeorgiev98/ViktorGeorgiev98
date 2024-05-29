@@ -1,8 +1,8 @@
 # Hi there 👋
 
-## About Me
+## My name is Viktor Georgiev. 
 
-My name is Viktor Georgiev. I am currently working as an RPA developer where I am currently working on the following:
+I am currently working as an RPA developer where I am currently working on the following:
   1/ Create new robots for automation for our client.
   2/ Fix any bugs connected to already existing ones
   3/ Develop automation testing for making sure everything works correctly.
