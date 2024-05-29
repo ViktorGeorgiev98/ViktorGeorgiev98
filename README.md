@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<ion-icon name="person"></ion-icon> About Me
+[<ion-icon name="person"></ion-icon>](https://img.shields.io/badge/Academia-fff?style=for-the-badge&logo=academia&logoColor=black) About Me
 <!--
 **ViktorGeorgiev98/ViktorGeorgiev98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
