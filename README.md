@@ -12,7 +12,7 @@ I have studied Web Development in SoftUni Bulgaria. I have a huge interest in Fr
 I am always opened to any interesting opportunities to develop my skillset and learn new things. 
 
 <br>
-### Tools and Skills
+## Tools and Skills
 
 <img align="left" width="80px" height="80px" style="padding-right: 10px" alt="JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
 <img align="left" width="80px" height="80px" style="padding-right: 10px" alt="JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" />
@@ -29,7 +29,7 @@ I am always opened to any interesting opportunities to develop my skillset and l
 <img align="left" width="80px" height="80px" style="padding-right: 10px" alt="JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original-wordmark.svg" />
 
 <br>
-#### Outisde of the world of tech I like to spend time with my family and develop myself in different ways. I like to go the gym, read books, go fishing and travel.
+### Outisde of the world of tech I like to spend time with my family and develop myself in different ways. I like to go the gym, read books, go fishing and travel.
 
 
 <!--
