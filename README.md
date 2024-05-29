@@ -11,7 +11,12 @@ I have studied Web Development in SoftUni Bulgaria. I have a huge interest in Fr
 
 I am always opened to any interesting opportunities to develop my skillset and learn new things. 
 
+
+
 ### Tools and Skills
+
+            <img align="Left" width="30px" style="padding-right: 10px" alt="JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+          
 1/ FrontEnd => JavaScript, HTML, CSS, SASS, React JS, Angular.
 2/ BackEnd => Express JS, Node JS, Mongo DB with mongoose.
 3/ Automation and QA => Java with Selenium webdriver, XPATH
