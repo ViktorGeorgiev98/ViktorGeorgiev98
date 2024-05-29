@@ -14,8 +14,7 @@ I am always opened to any interesting opportunities to develop my skillset and l
 
 ## Tools and Skills
 
-### Front End
-<br>
+### Front End => 
 <img align="left" width="50px" style="padding-right: 10px" alt="JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
 <img align="left" width="50px" style="padding-right: 10px" alt="JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" />
 <img align="left" width="50px" style="padding-right: 10px" alt="JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" />
@@ -25,24 +24,22 @@ I am always opened to any interesting opportunities to develop my skillset and l
 <br>
 <br>
 
-### Back End
-<br>
+### Back End => 
 <img align="left" width="50px" style="padding-right: 10px" alt="JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" />
 <img align="left" width="50px" style="padding-right: 10px" alt="JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/npm/npm-original-wordmark.svg" />
 <img align="left" width="50px" style="padding-right: 10px" alt="JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original-wordmark.svg" />
 <img align="left" width="50px" style="padding-right: 10px" alt="JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongoose/mongoose-original-wordmark.svg" />
-
+<br>
 <br>
 
-### Automation
-<br>
+### Automation => 
 <img align="left" width="50px" style="padding-right: 10px" alt="JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" />
 <img align="left" width="50px" style="padding-right: 10px" alt="JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/selenium/selenium-original.svg" />
 <br>
 <br />
 <br>
 
-## Other
+## Other interests
 
 Outisde of the world of tech I like to spend time with my family and develop myself in different ways. I like to go the gym, read books, go fishing and travel.
 
