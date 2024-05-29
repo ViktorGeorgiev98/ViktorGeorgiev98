@@ -3,9 +3,13 @@
 ## My name is Viktor Georgiev. 
 
 I am currently working as an RPA developer where I am currently working on the following:
+  <br>
   1/ Create new robots for automation for our client.
+  <br>
   2/ Fix any bugs connected to already existing ones
+  <br>
   3/ Develop automation testing for making sure everything works correctly.
+  <br>
 
 I have studied Web Development in SoftUni Bulgaria. I have a huge interest in FrontEnd development, so this is why I studied it and I am continuing to develop my skills taking additional courses. I really like learning and working on new interesting projects so what can be found in my github profile is mostly FrontEnd. In the past 2 years I have gained huge improvement of my skills from barely kwowing how to code to sucessfully getting a job and doing side projects.
 
