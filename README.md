@@ -26,9 +26,9 @@ I am always opened to any interesting opportunities to develop my skillset and l
 <img align="left" width="80px" height="80px" style="padding-right: 10px" alt="JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongoose/mongoose-original-wordmark.svg" />
 <img align="left" width="80px" height="80px" style="padding-right: 10px" alt="JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" />
 <img align="left" width="80px" height="80px" style="padding-right: 10px" alt="JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/selenium/selenium-original.svg" />
-<img align="left" width="80px" height="80px" style="padding-right: 10px" alt="JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original-wordmark.svg" />
+<img align="left" width="80px" height="80px" style="padding-right: 10px" alt="JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original-wordmark.svg" />  
 
-<br>
+<br>  
 ## Outisde of the world of tech I like to spend time with my family and develop myself in different ways. I like to go the gym, read books, go fishing and travel.
 
 
