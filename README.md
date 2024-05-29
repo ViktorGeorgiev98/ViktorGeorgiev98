@@ -15,13 +15,21 @@ I am always opened to any interesting opportunities to develop my skillset and l
 
 ### Tools and Skills
 
-<img align="Left" width="30px" style="padding-right: 10px" alt="JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+<img align="left" width="30px" style="padding-right: 10px" alt="JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+<img align="left" width="30px" style="padding-right: 10px" alt="JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" />
+<img align="left" width="30px" style="padding-right: 10px" alt="JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" />
+<img align="left" width="30px" style="padding-right: 10px" alt="JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" />
+<img align="left" width="30px" style="padding-right: 10px" alt="JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" />
+<img align="left" width="30px" style="padding-right: 10px" alt="JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" />
+<img align="left" width="30px" style="padding-right: 10px" alt="JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" />
+<img align="left" width="30px" style="padding-right: 10px" alt="JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/npm/npm-original-wordmark.svg" />
+<img align="left" width="30px" style="padding-right: 10px" alt="JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original-wordmark.svg" />
+<img align="left" width="30px" style="padding-right: 10px" alt="JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongoose/mongoose-original-wordmark.svg" />
+<img align="left" width="30px" style="padding-right: 10px" alt="JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" />
+<img align="left" width="30px" style="padding-right: 10px" alt="JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/selenium/selenium-original.svg" />
+<img align="left" width="30px" style="padding-right: 10px" alt="JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original-wordmark.svg" />
           
-1/ FrontEnd => JavaScript, HTML, CSS, SASS, React JS, Angular.
-2/ BackEnd => Express JS, Node JS, Mongo DB with mongoose.
-3/ Automation and QA => Java with Selenium webdriver, XPATH
-4/ Additional tools => Postman, Mongo DB compass, Figma.
-
+        
 #### Outisde of the world of tech I like to spend time with my family and develop myself in different ways. I like to go the gym, read books, go fishing and travel.
 
 
