@@ -33,6 +33,8 @@ I am always opened to any interesting opportunities to develop my skillset and l
 <br />
 <br>
 
+
+
 ## Other
 
 Outisde of the world of tech I like to spend time with my family and develop myself in different ways. I like to go the gym, read books, go fishing and travel.
