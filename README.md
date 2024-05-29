@@ -14,7 +14,7 @@ I am always opened to any interesting opportunities to develop my skillset and l
 
 ## Tools and Skills
 
-### Front End => 
+Front End => 
 <img align="left" width="50px" style="padding-right: 10px" alt="JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
 <img align="left" width="50px" style="padding-right: 10px" alt="JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" />
 <img align="left" width="50px" style="padding-right: 10px" alt="JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" />
