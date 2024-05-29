@@ -1,6 +1,6 @@
-## Hi there 👋
+# Hi there 👋
 
-About Me
+## About Me
 
 My name is Viktor Georgiev. I am currently working as an RPA developer where I am currently working on the following:
   1/ Create new robots for automation for our client.
@@ -11,13 +11,13 @@ I have studied Web Development in SoftUni Bulgaria. I have a huge interest in Fr
 
 I am always opened to any interesting opportunities to develop my skillset and learn new things. 
 
-Tools and Skills
+### Tools and Skills
 1/ FrontEnd => JavaScript, HTML, CSS, SASS, React JS, Angular.
 2/ BackEnd => Express JS, Node JS, Mongo DB with mongoose.
 3/ Automation and QA => Java with Selenium webdriver, XPATH
 4/ Additional tools => Postman, Mongo DB compass, Figma.
 
-Outisde of the world of tech I like to spend time with my family and develop myself in different ways. I like to go the gym, read books, go fishing and travel.
+#### Outisde of the world of tech I like to spend time with my family and develop myself in different ways. I like to go the gym, read books, go fishing and travel.
 
 
 <!--
