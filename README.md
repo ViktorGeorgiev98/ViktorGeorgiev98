@@ -28,7 +28,7 @@ I am always opened to any interesting opportunities to develop my skillset and l
 <img align="left" width="80px" height="80px" style="padding-right: 10px" alt="JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/selenium/selenium-original.svg" />
 <img align="left" width="80px" height="80px" style="padding-right: 10px" alt="JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original-wordmark.svg" />  
 
-<br>  
+<br />  
 
 
 
