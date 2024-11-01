@@ -2,13 +2,17 @@
 
 ## My name is Viktor Georgiev. 
 
-I am currently working as an RPA developer where I am currently working on the following:
+I am currently working as a Senior RPA/QA developer where I am responsible for the following work:
   <br>
-  1/ Create new robots for automation for our client.
+  1/ Create automated process designs for our robots working together with the business team according to the needs of our client
   <br>
-  2/ Fix any bugs connected to already existing ones
+  2/ Create new automated processes for our clients connected to telecom (robots)
   <br>
-  3/ Develop automation testing for making sure everything works correctly.
+  3/ Develop automation testing for making sure everything works correctly according to the client's standards.
+  <br>
+  4/ Code review and testing or colleagues code
+  <br>
+  5/ General documentation, methodology, good practices and coding standards
   <br>
 
 I have studied Web Development in SoftUni Bulgaria. I have a huge interest in FrontEnd development, so this is why I studied it and I am continuing to develop my skills taking additional courses. I really like learning and working on new interesting projects so what can be found in my github profile is mostly FrontEnd. In the past 2 years I have gained huge improvement of my skills from barely kwowing how to code to sucessfully getting a job and doing side projects.
