@@ -16,6 +16,7 @@ I am currently working as a Senior RPA/QA developer where I am responsible for t
   <br>
 
 I have studied Web Development in SoftUni Bulgaria. I have a huge interest in FrontEnd development, so this is why I studied it and I am continuing to develop my skills taking additional courses. I really like learning and working on new interesting projects so what can be found in my github profile is mostly FrontEnd. In the past 2 years I have gained huge improvement of my skills from barely kwowing how to code to sucessfully getting a job and doing side projects.
+Recently I got interested in AI, so currently I am studying python and machine learning and working on projects.
 
 I am always opened to any interesting opportunities to develop my skillset and learn new things. 
 <br>
