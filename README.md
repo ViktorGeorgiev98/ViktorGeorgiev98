@@ -4,19 +4,23 @@
 
 I am currently working as a Senior RPA/QA developer where I am responsible for the following work:
   <br>
-  1/ Create automated process designs for our robots working together with the business team according to the needs of our client
-  <br>
-  2/ Create new automated processes for our clients connected to telecom (robots)
-  <br>
-  3/ Develop automation testing for making sure everything works correctly according to the client's standards.
-  <br>
-  4/ Code review and testing or colleagues code
-  <br>
-  5/ General documentation, methodology, good practices and coding standards
+  1. Contributed to the design and development of 10+ end-to-end RPA processes for telecom clients, streamlining operations and reducing manual workload.
+
+  2. Translated business requirements into scalable, maintainable automation workflows.
+
+  3. Reviewed and improved code to ensure quality, performance, and adherence to best practices.
+
+  4. Identified process bottlenecks and implemented enhancements that boosted maintainability, performance, and user experience.
+
+  5. Collaborated with developers and business teams to refine features and reduce support effort.
+
+  6. Maintained clear communication with stakeholders to align expectations and report progress.
+
+  7. Delivered reliable automation scripts as part of a cross-functional agile team.
   <br>
 
 I have studied Web Development in SoftUni Bulgaria. I have a huge interest in FrontEnd development, so this is why I studied it and I am continuing to develop my skills taking additional courses. I really like learning and working on new interesting projects so what can be found in my github profile is mostly FrontEnd. In the past 2 years I have gained huge improvement of my skills from barely kwowing how to code to sucessfully getting a job and doing side projects.
-Recently I got interested in AI, so currently I am studying python and machine learning and working on projects.
+Recently I got interested in AI. I am studying in SoftUni's AI upskill program for Machine Learning and taking Udemy courses for AI.
 
 I am always opened to any interesting opportunities to develop my skillset and learn new things. 
 <br>
