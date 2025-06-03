@@ -56,8 +56,8 @@ I am always opened to any interesting opportunities to develop my skillset and l
 <img align="left" width="50px" style="padding-right: 10px" alt="JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original-wordmark.svg" />
 <img align="left" width="50px" style="padding-right: 10px" alt="JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scipy/scipy-original-wordmark.svg" />
 <img align="left" width="50px" style="padding-right: 10px" alt="JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original-wordmark.svg" />
-<img align="left" width="50px" style="padding-right: 10px" alt="JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/seaborn/seaborn-original-wordmark.svg" />
-<img align="left" width="50px" style="padding-right: 10px" alt="JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikit-learn/scikit-learn-original-wordmark.svg" />
+<img align="left" width="50px" src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" />
+<img align="left" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Scikit_learn_logo_small.svg/200px-Scikit_learn_logo_small.svg.png" />
 <br>
 <br />
 <br>
